@@ -1,0 +1,24 @@
+{
+  "name": "RAO_session_server",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "ander",
+  "contributors": [],
+  "dependencies": {
+    "base-64": "0.1.0",
+    "bcrypt": "1.0.3",
+    "express": "4.16.2",
+    "fs": "0.0.1-security",
+    "mysql": "2.15.0",
+    "rand-token": "0.4.0",
+    "redis": "2.8.0",
+    "sha256": "^0.2.0",
+    "utf8": "3.0.0"
+  }
+}
